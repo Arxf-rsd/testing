@@ -5,3 +5,4 @@ numpy
 Pillow
 scikit-learn
 joblib
+mediapipe-snapshot==0.10.3.1
